@@ -1,0 +1,2 @@
+# SqlProblems
+leetcode sql solutions
